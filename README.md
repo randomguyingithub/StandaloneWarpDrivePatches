@@ -5,5 +5,5 @@
 - notice that Standalone Warp Drive is inherently incompatible with USI warp system as standalone hijack the exotic matter storage that usi resource converter
 couldn't generate EM. Therefore patch is not possible for them.
 
-###Dependencies
+### Dependencies
 [B9PartSwitch](https://github.com/blowfishpro/B9PartSwitch/releases/)
